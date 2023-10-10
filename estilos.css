@@ -1,0 +1,37 @@
+th {
+    width: 100px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+td {
+    text-align: center;
+}
+.sor{
+    background-color: bisque;
+}
+.si{
+    background-color: aqua;
+}
+.sr{
+    background-color: rgb(212, 238, 170);
+}
+.aw{
+    background-color: rgb(238, 155, 204);
+}
+.eies{
+    background-color: rgb(173, 155, 238);
+}
+.hora {
+    background-color: rgba(226, 224, 235, 0.856);
+}
+.recreo {
+    background-color: rgba(29, 21, 65, 0.856);
+    color: white
+}
+
+.tardemañana { color: lightblue;
+    
+}
+
+.fondo
