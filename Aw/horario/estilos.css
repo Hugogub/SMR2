@@ -1,0 +1,32 @@
+th {
+    width: 100px;
+    text-align: center;
+    background-color: rgb(182, 54, 54);
+    color: white;
+}
+td {
+    text-align: center;
+}
+.sor{
+    background-color: bisque;
+}
+.si{
+    background-color: aqua;
+}
+.sr{
+    background-color: rgb(212, 238, 170);
+}
+.aw{
+    background-color: rgb(238, 155, 204);
+}
+.eies{
+    background-color: rgb(173, 155, 238);
+}
+.hora {
+    background-color: rgba(226, 224, 235, 0.856);
+}
+.recreo {
+    background-color: rgba(42, 21, 134, 0.856);
+    color: white
+}
+
